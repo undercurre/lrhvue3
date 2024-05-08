@@ -1,2 +1,5 @@
 node_modules
-lib
+.git
+example/node_modules
+package/node_modules
+package/lib
